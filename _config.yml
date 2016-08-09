@@ -1,4 +1,3 @@
-layout_spectrum: 0.2869275289122015
 typography_spectrum: 0.3691063183359802
 color:
   brandStrength: 0.8590675017330796
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.2869275289122015
 name: Iteras
 title: Never migrate your content again
+description: 'Publish to print, web, apps facebook, etc. from one place'
